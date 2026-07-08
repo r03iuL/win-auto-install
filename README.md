@@ -1,6 +1,6 @@
 # 🚀 Windows Auto-Setup Utility
 
-![Setup Menu Preview](screenshot.png)
+![Setup Menu Preview](./Screenshot.png)
 
 
 A simple script to automatically install essential software with `winget` after a fresh Windows 10/11 installation. Just run it and let it handle the tedious setup process for you.
